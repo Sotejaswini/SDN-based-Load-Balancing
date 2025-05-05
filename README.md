@@ -1,6 +1,9 @@
 # SDN Ryu-Controller -- Load-Balancing with Dynamic-Routing
 Ryu controller which performs DIJKSTRA algorithm to find best paths, based on traffic flowing through links.
 
+## 📽️ Demo Video
+[🔗 Watch the Demo Video](]https://youtu.be/2OJrM9gvRgg)
+
 ## OpenFlow version used: 
 OpenFlow 1.3 
 
@@ -9,14 +12,21 @@ Ryu controller which performs DIJKSTRA algorithm to find best paths, based on tr
 
 ## Commands AND Requirements
 ```bash
-ryu-manager --observe-links multipath.py (for initializing the RYU controller)
-```
-```bash
 sudo mn -c
 ```
+Clean up any previous Mininet state
+---
+Start the Ryu Controller:
+● In one terminal, run:
+```bash
+ryu-manager --observe-links multipath.py (for initializing the RYU controller)
+```
+Start the Network Topology:
+● In another terminal, run:
 ```bash
 sudo python topology.py (For initializing the topology of the network)
 ```
+----
 - Virtual Machine
 - Mininet 2.3.0
 - RYU controller
