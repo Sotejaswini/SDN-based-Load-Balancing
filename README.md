@@ -15,14 +15,13 @@ Ryu controller which performs DIJKSTRA algorithm to find best paths, based on tr
 sudo mn -c
 ```
 Clean up any previous Mininet state
----
-Start the Ryu Controller:
-● In one terminal, run:
+
+
+Start the Ryu Controller: In one terminal, run:
 ```bash
 ryu-manager --observe-links multipath.py (for initializing the RYU controller)
 ```
-Start the Network Topology:
-● In another terminal, run:
+Start the Network Topology:In another terminal, run:
 ```bash
 sudo python topology.py (For initializing the topology of the network)
 ```
