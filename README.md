@@ -27,13 +27,14 @@ We have used Dijkstra algorithm to find the shortest available path from H1 to H
 
 We have created 2 controllers, one controller is for backup. We have created 9 switches for the connection part. All the links are connected as shown in the screenshot. There are 2 hosts in the network topology.
 
-![Screenshot](./images/topology.png)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Algorithms/topology.png?raw=true)
 
 ## Protocols Configured:
 
 Our Code is configured to use 4 types of protocol. The type of protocol can be found using the header values. The protocols are ``TCP`` , ``UDP`` , ``ICMP`` , ``ARP``. Tcp is used for normal connection. UDP will be used for service packets for buffering. ICMP will be used when the link gets terminated to send a ping regarding link destruction. ARP is used when the host IP is known but MAC is not known.
 
-![Screenshot](./images/protocols.png)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Algorithms/portocols.png?raw=true)
+
 
 ## Screenshot of Running Code:
 
