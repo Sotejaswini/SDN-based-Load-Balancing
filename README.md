@@ -21,7 +21,7 @@ Ryu controller which performs DIJKSTRA algorithm to find best paths, based on tr
 
 We have used Dijkstra algorithm to find the shortest available path from H1 to H2. The algorithm uses min heap functionality to calculate the smallest path cost. Following is the screenshot of the code.
 
-![Screenshot](https://github.com/Sotejaswini/blob/main/SDN-based-Load-Balancing/Algorithms/dijkstra.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Algorithms/dijkstra.png?raw=true)
 
 ## TOPOLOGY USED:
 
