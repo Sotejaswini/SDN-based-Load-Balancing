@@ -8,10 +8,11 @@ OpenFlow 1.3
 Ryu controller which performs DIJKSTRA algorithm to find best paths, based on traffic flowing through links. Optimal path is being choosen from possible paths. The costs are being calculated in the background (action performed by thread and the path cost is calculated via network bandwidth calculation.) and optimal path is being updated every second based on the gathered stats. Discover of topology is done automatically so we don't have to have specially prepared topology. 
 
 ## Commands AND Requirements
+```bash
 - ryu-manager --observe-links multipath.py (for initializing the RYU controller)
-
 - sudo mn -c
 - sudo python topology.py (For initializing the topology of the network)
+```
 - Virtual Machine
 - Mininet 2.3.0
 - RYU controller
