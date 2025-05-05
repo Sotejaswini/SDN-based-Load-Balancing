@@ -2,7 +2,7 @@
 Ryu controller which performs DIJKSTRA algorithm to find best paths, based on traffic flowing through links.
 
 ## 📽️ Demo Video
-[🔗 Watch the Demo Video](]https://youtu.be/2OJrM9gvRgg)
+[🔗 Watch the Demo Video](https://www.youtube.com/watch?v=2OJrM9gvRgg)
 
 ## OpenFlow version used: 
 OpenFlow 1.3 
