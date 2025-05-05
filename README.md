@@ -33,14 +33,14 @@ We have created 2 controllers, one controller is for backup. We have created 9 s
 
 Our Code is configured to use 4 types of protocol. The type of protocol can be found using the header values. The protocols are ``TCP`` , ``UDP`` , ``ICMP`` , ``ARP``. Tcp is used for normal connection. UDP will be used for service packets for buffering. ICMP will be used when the link gets terminated to send a ping regarding link destruction. ARP is used when the host IP is known but MAC is not known.
 
-![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Algorithms/portocols.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Algorithms/protocols.png?raw=true)
 
 
-## Screenshot of Running Code:
-
+## Screenshots of Running Code:
 As you can see in the screenshot the possible paths are calculated and the path will minimum cost is the final cost of the packet transmission.
-
-![Screenshot](./images/coderun1.png)
-
-![Screenshot](./images/coderun2.png)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot1.jpg?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot2.jpg?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot3.jpg?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SN-based-Load-Balancing/Mininet-basictools/screenshot4.jpg?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot5.jpg?raw=true)
 
