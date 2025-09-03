@@ -39,7 +39,7 @@ We implemented Dijkstra’s algorithm to determine the shortest path between H1 
 
 ## TOPOLOGY USED:
 
-We set up 2 controllers, with one designated as a backup. The network topology includes nine switches that manage the connections, and all links are established as shown in the screenshot. Additionally, the topology consists of two hosts.
+We have created 2 controllers, one controller is for backup. We have created 9 switches for the connection part. All the links are connected as shown in the screenshot. There are 2 hosts in the network topology.
 
 ![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Algorithms/topology.png?raw=true)
 
