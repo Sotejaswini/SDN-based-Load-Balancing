@@ -33,7 +33,7 @@ sudo python topology.py (For initializing the topology of the network)
 
 ## DIJKSTRA ALOGRITHM USED:
 
-We have used Dijkstra algorithm to find the shortest available path from H1 to H2. The algorithm uses min heap functionality to calculate the smallest path cost. Following is the screenshot of the code.
+We implemented Dijkstra’s algorithm to determine the shortest path between H1 and H2. The algorithm employs a min-heap structure to efficiently compute the minimum path cost. Below is the screenshot of the code.
 
 ![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Algorithms/dijkstra.png?raw=true)
 
