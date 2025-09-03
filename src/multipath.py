@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 from import_multipath import *
 
 REFERENCE_BW = 10000000
@@ -339,7 +338,6 @@ class Controller13(app_manager.RyuApp):
                 del self.neigh[switch]
             except KeyError:
                 self.logger.info(f"Switch has been already pulged off PID{switch}!")
-            
 
     @set_ev_cls(event.EventLinkAdd, MAIN_DISPATCHER)
     def link_add_handler(self, ev):
