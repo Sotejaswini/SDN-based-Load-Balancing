@@ -55,6 +55,6 @@ As you can see in the screenshot the possible paths are calculated and the path 
 ![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot1.jpg?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot2.jpg?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot3.jpg?raw=true)
-![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SN-based-Load-Balancing/Mininet-basictools/screenshot4.jpg?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot4.jpg?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/SDN-based-Load-Balancing/blob/main/SDN-based-Load-Balancing/Mininet-basictools/screenshot5.jpg?raw=true)
 
